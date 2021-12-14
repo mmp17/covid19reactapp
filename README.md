@@ -8,7 +8,8 @@ A list of my other projects:
 [Portfolio Web Site](https://mirzaevmuzaffar.com/)
 [Sadaf Stom](http://www.sadafstom.uz/)
 [Samarkand Restaurant Bootstrap](https://samarkandansan.netlify.app/)
-[JS Fetch API](https://mmpjokesfetchapi.netlify.ap)
+[JS Fetch API](https://mmpjokesfetchapi.netlify.app/)
+
 
 
 
