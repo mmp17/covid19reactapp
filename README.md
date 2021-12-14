@@ -1,5 +1,10 @@
-COVID 19 React App
+COVID 19 Fetch API React App
 
-Web Site: 
+[Live Site](https://mmpcovid19.netlify.app/)
 
-API used: https://covid19.mathdro.id/api
+API: https://covid19.mathdro.id/api
+
+
+
+
+
